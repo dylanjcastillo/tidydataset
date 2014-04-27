@@ -8,11 +8,10 @@ The 66 measurements express one of these two measures: triaxial acceleration fro
 
 The files X_train.txt, y_train.txt, X_test.txt, y_test.txt, subject_test.txt and subject_train.txt were merged into a single data frame. Then the measurements on the mean and standard deviation for each instance were extracting, dropping the rest. The resulting data frame was arranged by subject and activity and the last step taken was to create another data set with the average of each attribute for each activity and each subject.
 
-#
+#Variables
 
-Variables
 
-## Identifiers
+## Identifiers
 
 There are 2 indentifiers -SubjectID and Activiy- each serving a specific goal:
 
