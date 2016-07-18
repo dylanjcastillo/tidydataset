@@ -1,6 +1,6 @@
-#run_analysis.R
+#tidyup_dataset.R
 
-This script was designed to download, extract, tidy up and summarize part of the "Human Activity Recognition Using Smartphones Dataset Version 1.0" made by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio and Luca Oneto. 
+This script was designed to download, extract, tidy up and summarize part of the "Human Activity Recognition Using Smartphones Dataset Version 1.0" made by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio and Luca Oneto. This repository was created as an assignment for the Data Science Specialization from Johns Hopkins University and Coursera.
 
 #How it works
 
