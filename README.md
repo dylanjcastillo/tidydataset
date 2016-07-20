@@ -2,7 +2,7 @@
 
 This script was designed to download, extract, tidy up and summarize part of the "Human Activity Recognition Using Smartphones Dataset Version 1.0" made by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio and Luca Oneto. This repository was created as an assignment for the Data Science Specialization by Johns Hopkins University and Coursera.
 
-#How it works
+#How does it work?
 
 1. Checks if the dataset already exists and if it doesn't, downloads it from the corresponding source
 2. Reads the data from .zip and creates different dataframes from it
